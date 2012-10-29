@@ -1,0 +1,23 @@
+{
+    "license": "MPL", 
+    "name": "spike_server", 
+    "repository": "", 
+    "author": "Dethe Elza", 
+    "version": "0.0.0", 
+    "dependencies": {
+        "awsbox": "~0.2.17", 
+        "express": "3.x"
+    }, 
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }, 
+    "devDependencies": {
+        "awsbox": "*", 
+        "obloq": "*", 
+        "grunt-contrib": "*", 
+        "habitat": "*"
+    }, 
+    "main": "server.js", 
+    "id": "jid1-BNVfnyyabVT7AA", 
+    "description": "Test server for collusion"
+}
